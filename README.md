@@ -23,7 +23,7 @@
 </p>
 
 <h4 align=center>
-🚀导航：[<a href="https://realyao.github.io/foclock/">主页</a>] [<a href="#快速开始">快速开始部署</a>] [<a href="#部分原型设计预览">页面原型预览</a>] [<a href="https://support.qq.com/product/144958">反馈社群</a>] [<a href="https://github.com/realyao/WXminiprogram-Focus-clock/wiki">Wiki文档</a>]
+🚀导航：<a href="https://realyao.github.io/foclock/">主页</a> • <a href="#快速开始">快速开始部署</a> • <a href="#部分原型设计预览">页面原型预览</a> • <a href="https://support.qq.com/product/144958">反馈</a> • <a href="https://github.com/realyao/WXminiprogram-Focus-clock/wiki">Wiki</a>
 </h4>
 
 <p align=center>你可以在微信中搜索 <b>习惯打卡 专注时钟</b>，或微信扫码预览</p>
